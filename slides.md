@@ -158,19 +158,19 @@ layout: two-cols
 </v-click>
 
 ---
-layout: quote
----
-
-# axe can "only" catch up to [57% of a11y issues](https://www.deque.com/blog/automated-testing-study-identifies-57-percent-of-digital-accessibility-issues/).
-
----
 
 # A11y tests with Storybook
 
 - Storybook is a tool for developing, documenting, and testing UI components in isolation;
-- Use [`storybook-addon-a11y`](https://storybook.js.org/docs/react/writing-tests/accessibility-testing) to check the a11y of each story.
+- Use [`storybook-addon-a11y`](https://storybook.js.org/docs/react/writing-tests/accessibility-testing) to check the a11y of each story (it relies on axe-core).
 
 <img src="/story.png" alt="A screenshot of a Storybook Button story and its accessibility report.">
+
+---
+layout: quote
+---
+
+# axe can "only" catch up to [57% of a11y issues](https://www.deque.com/blog/automated-testing-study-identifies-57-percent-of-digital-accessibility-issues/).
 
 ---
 layout: iframe-right
