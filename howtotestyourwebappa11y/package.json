@@ -1,0 +1,15 @@
+{
+  "name": "howtotestyourwebappa11y",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "eject": " slidev theme eject"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.10",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  }
+}

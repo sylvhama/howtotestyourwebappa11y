@@ -1,0 +1,21 @@
+h1 + p {
+  opacity: 1 !important;
+}
+
+ul {
+  margin-top: 1rem;
+}
+
+.hover-scale {
+  position: relative;
+  z-index: 9999;
+  transform-origin: top left;
+  transition: scale 250ms ease;
+}
+.hover-scale:hover {
+  scale: 200%;
+}
+
+.iframe-right {
+  grid-template-columns: minmax(0, 1fr) 250px !important;
+}
