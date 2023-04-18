@@ -4,12 +4,16 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export",
+    "export": "slidev export --output slides-light",
+    "export:dark": "slidev export --dark --output slides-dark",
     "eject": " slidev theme eject"
   },
   "dependencies": {
     "@slidev/cli": "^0.40.10",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.32.3"
   }
 }

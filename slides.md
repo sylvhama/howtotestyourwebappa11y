@@ -180,6 +180,8 @@ class: iframe-right
 
 # Test keyboard interactions
 
+<v-click>
+
 ```js
 test('Menu keyboard interaction', async () => {
   render(<Menu />);
@@ -203,6 +205,8 @@ test('Menu keyboard interaction', async () => {
   expect(button).toHaveAttribute("aria-expanded", "false");
 });
 ```
+
+</v-click>
 
 ---
 
