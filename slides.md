@@ -29,7 +29,7 @@ layout: center
 Via tab or shift+tab
 
 <v-click>
-  <video title="Demo of a keyboard navigation on Wikipedia" controls src="/keyboard.mov" />
+  <Youtube width="100%" id="aS0rUQ9I3B0" />
 </v-click>
 
 ---
@@ -64,7 +64,7 @@ Via tab or shift+tab
   </div>
   <div>
       <p>VoiceOver on MacOS</p>
-      <video title="A demo of VoiceOver on MacOS. It shows how the screen reader focus elements and also how to jump to a heading via the rotor." controls src="/voiceover.mov" />
+      <Youtube width="100%" id="VfmrMB8r5Gc" />
   </div>
 </div>
 
