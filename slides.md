@@ -205,6 +205,16 @@ test('Menu keyboard interaction', async () => {
 ```
 
 ---
+
+# Resources
+
+- [Accessibility Myths](https://a11ymyths.com)
+- [Learn Accessibility](https://web.dev/learn/accessibility/)
+- [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) with Rob Dodson
+- [Testing Accessibility](https://testingaccessibility.com) by Marcy Sutton
+- [Practical Accessibility](https://practical-accessibility.today/) with Sara Soueidan
+
+---
 layout: center
 ---
 
@@ -220,7 +230,7 @@ layout: center
 </v-click>
 <v-click>
 
-  - Prevent regressions by implementing automatic tests focusing on a11y;
+  - Consider all possible interactions in your automatic tests;
 </v-click>
 <v-click>
 
