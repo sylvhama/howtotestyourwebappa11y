@@ -83,8 +83,6 @@ image: /responsive.png
 
 ## There are many others assistive technologies
 
-For example:
-
 <div class="grid grid-cols-2 gap-4">
   <div>
       <p>High Contrast Mode on Windows</p>
