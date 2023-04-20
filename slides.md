@@ -23,14 +23,15 @@ layout: center
 # MANUAL AUDIT
 
 ---
+layout: iframe-right
+url: https://en.wikipedia.org/wiki/Screen_reader
+---
 
 ## Keyboard only navigation
 
-Via tab or shift+tab
-
-<v-click>
-  <Youtube width="100%" id="aS0rUQ9I3B0" />
-</v-click>
+- Via tab or shift+tab;
+- Look for visual feedback (e.g. focus ring);
+- I should be able to do the exact same actions as a mouse user.
 
 ---
 
