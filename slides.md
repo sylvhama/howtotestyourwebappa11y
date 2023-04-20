@@ -75,7 +75,7 @@ image: /responsive.png
 ## Responsive Design
 
 - Mobiles and Tablets also have screen readers!
-- We saw that zooming might trigger "mobile" layout;
+- Resizing or zooming might trigger "mobile" layout;
 - Each major browser has a Responsive Design Mode.
 
 ---
