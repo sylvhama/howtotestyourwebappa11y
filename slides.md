@@ -57,7 +57,9 @@ url: https://en.wikipedia.org/wiki/Screen_reader
 
 ## Screen Readers
 
-<p style="display: grid; place-items:center;"><img alt="A pie chart showing the top 3 screen readers: NVDA, JAWS and VoiceOver" style="background-color: white; height: 50vh; object-fit: contain; aspect-ratio: 16/9;" src="/chart.png" /></p>
+A screen reader is a software application that converts on-screen text and visual elements into spoken words or Braille output, allowing visually impaired or blind individuals to use computers and mobile devices.
+
+<p style="display: grid; place-items:center;"><img alt="A pie chart showing the top 3 screen readers: NVDA, JAWS and VoiceOver" style="padding: 1rem; background-color: white; height: 40vh; object-fit: contain; aspect-ratio: 16/9;" src="/chart.png" /></p>
 <p>source: <a href="https://assistivlabs.com/">assistivlabs.com</a></p>
 
 ---
