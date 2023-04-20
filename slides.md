@@ -175,7 +175,7 @@ url: https://a11y-rtl-test.netlify.app/
 class: iframe-right
 ---
 
-# Test keyboard interactions
+# Don't just test mouse clicks
 
 <v-click>
 
