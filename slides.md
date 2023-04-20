@@ -57,17 +57,13 @@ url: https://en.wikipedia.org/wiki/Screen_reader
 
 ## Screen Readers
 
-<div class="grid grid-cols-2 gap-4">
-  <div>
-      <p>Most popular Screen Readers</p>
-      <img alt="A pie chart showing the top 3 screen readers: NVDA, JAWS and VoiceOver" style="background-color: white; aspect-ratio: 16 / 9; object-fit: contain;" src="/chart.png" />
-      <p>source: <a href="https://assistivlabs.com/">assistivlabs.com</a></p>
-  </div>
-  <div>
-      <p>VoiceOver on MacOS</p>
-      <Youtube width="100%" id="VfmrMB8r5Gc" />
-  </div>
-</div>
+<img alt="A pie chart showing the top 3 screen readers: NVDA, JAWS and VoiceOver" style="background-color: white" src="/chart.png" />
+<p>source: <a href="https://assistivlabs.com/">assistivlabs.com</a></p>
+
+---
+layout: iframe
+url: https://en.wikipedia.org/wiki/Screen_reader
+---
 
 ---
 layout: image-right
