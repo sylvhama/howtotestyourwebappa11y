@@ -57,7 +57,7 @@ url: https://en.wikipedia.org/wiki/Screen_reader
 
 ## Screen Readers
 
-<img alt="A pie chart showing the top 3 screen readers: NVDA, JAWS and VoiceOver" style="background-color: white" src="/chart.png" />
+<p style="display: grid; place-items:center;"><img alt="A pie chart showing the top 3 screen readers: NVDA, JAWS and VoiceOver" style="background-color: white; height: 50vh; object-fit: contain; aspect-ratio: 16/9;" src="/chart.png" /></p>
 <p>source: <a href="https://assistivlabs.com/">assistivlabs.com</a></p>
 
 ---
