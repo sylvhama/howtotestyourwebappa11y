@@ -206,6 +206,8 @@ test('Menu keyboard interaction', async () => {
 </v-click>
 
 ---
+layout: center
+---
 
 # Resources
 
