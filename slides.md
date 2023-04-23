@@ -86,7 +86,6 @@ image: /responsive.png
   <div>
       <p>High Contrast Mode on Windows</p>
       <img alt="A screenshot of an Assistiv Labs session loading Wikipedia on Windows Edge with the high contrast mode on." src="/high.png" />
-      <p>Another one: Reduce screen motion on Mac OS.</p>
   </div>
   <div>
       <p>Switch device</p>
