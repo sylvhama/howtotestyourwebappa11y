@@ -216,6 +216,7 @@ layout: center
 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) with Rob Dodson
 - [Testing Accessibility](https://testingaccessibility.com) by Marcy Sutton
 - [Practical Accessibility](https://practical-accessibility.today/) with Sara Soueidan
+- [WebAIM Newsletter](https://webaim.org/newsletter/)
 
 ---
 layout: center
