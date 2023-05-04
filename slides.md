@@ -88,7 +88,7 @@ image: /responsive.png
   <div>
       <p>High Contrast Mode on Windows</p>
       <img alt="A screenshot of an Assistiv Labs session loading Wikipedia on Windows Edge with the high contrast mode on." src="/high.png" />
-      <p>remote test via Assistiv Labs</p>
+      <p>remote test via [Assistiv Labs](https://assistivlabs.com/) (check [BrowserStack](https://www.browserstack.com/accessibility-testing) too)</p>
   </div>
   <div>
       <p>Switch device</p>
