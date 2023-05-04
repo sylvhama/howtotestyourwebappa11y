@@ -14,7 +14,7 @@ layout: quote
 
 # What's Web Accessibility?
 
-It's the principle of designing and developing websites in a way that ensures they can be used by anyone, regardless of their abilities or disabilities, and regardless of the technology they use to access the web.
+It's the principle of designing and developing websites in a way they can be used by anyone, regardless of their abilities or disabilities, and regardless of the technology they use to access the web.
 
 <small>Source: GPT-3.5</small>
 
