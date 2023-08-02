@@ -19,6 +19,18 @@ It's the principle of designing and developing websites in a way that they can b
 <small>Source: GPT-3.5</small>
 
 ---
+layout: quote
+---
+
+# What's WCAG?
+
+WCAG, or Web Content Accessibility Guidelines, are standards developed by W3C. The guidelines are organized under 4 principles: perceivable, operable, understandable, and robust.
+
+For each guideline, there are testable success criteria. The success criteria are at three levels: A, AA, and AAA.
+
+<small><a href="https://www.w3.org/WAI/standards-guidelines/wcag/">w3.org/WAI/standards-guidelines/wcag/</a></small>
+
+---
 layout: center
 ---
 
