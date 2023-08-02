@@ -28,7 +28,7 @@ WCAG, or Web Content Accessibility Guidelines, are standards developed by W3C. T
 
 For each guideline, there are testable success criteria. The success criteria are at three levels: A, AA, and AAA.
 
-<small><a href="https://www.w3.org/WAI/standards-guidelines/wcag/">w3.org/WAI/standards-guidelines/wcag/</a></small>
+<small>Source: <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">w3.org/WAI/standards-guidelines/wcag/</a></small>
 
 ---
 layout: center
