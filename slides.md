@@ -231,6 +231,7 @@ layout: center
 - [Testing Accessibility](https://testingaccessibility.com) by Marcy Sutton <small>(💰 paid course)</small>
 - [Practical Accessibility](https://practical-accessibility.today/) with Sara Soueidan <small>(💰 paid course)</small>
 - [WebAIM Newsletter](https://webaim.org/newsletter/)
+- [Adrian Roselli blog](https://adrianroselli.com/tag/accessibility)
 
 ---
 layout: center
