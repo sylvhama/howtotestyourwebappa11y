@@ -227,6 +227,7 @@ layout: center
 
 - [Accessibility Myths](https://a11ymyths.com) by Sergei Kriger
 - [Learn Accessibility](https://web.dev/learn/accessibility/) by Carie Fisher
+- [WCAG explained](https://www.getstark.co/wcag-explained/)
 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) with Rob Dodson
 - [Testing Accessibility](https://testingaccessibility.com) by Marcy Sutton <small>(💰 paid course)</small>
 - [Practical Accessibility](https://practical-accessibility.today/) with Sara Soueidan <small>(💰 paid course)</small>
